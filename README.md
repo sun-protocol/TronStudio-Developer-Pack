@@ -1,6 +1,6 @@
-# Hardhat Developer Pack
+# TronStudio Developer Pack
 
-Hardhat Developer's Extension Pack to ease the smart contract development, testing and deployment.
+TronStudio Developer's Extension Pack to ease the smart contract development, testing and deployment.
 
 ## Extensions Included
 

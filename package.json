@@ -1,7 +1,7 @@
 {
   "name": "tronstudio-developer-pack",
   "displayName": "Tron Studio Developer Pack",
-  "description": "",
+  "description": "TronStudio Developer's Extension Pack to ease the smart contract development, testing and deployment.",
   "version": "0.0.1",
   "keywords": [
     "hardhat",
