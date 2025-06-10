@@ -1,6 +1,6 @@
 # Sun Studio Developer Pack
 
-TronStudio Developer's Extension Pack to ease the smart contract development, testing and deployment.
+Sun Studio Developer's Extension Pack to ease the smart contract development, testing and deployment.
 
 ## Extensions Included
 
