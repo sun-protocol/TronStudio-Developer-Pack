@@ -1,4 +1,4 @@
-# TronStudio Developer Pack
+# Sun Studio Developer Pack
 
 TronStudio Developer's Extension Pack to ease the smart contract development, testing and deployment.
 
