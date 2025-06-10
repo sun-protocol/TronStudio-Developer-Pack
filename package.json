@@ -1,7 +1,7 @@
 {
-  "name": "tronstudio-developer-pack",
-  "displayName": "Tron Studio Developer Pack",
-  "description": "TronStudio Developer's Extension Pack to ease the smart contract development, testing and deployment.",
+  "name": "sun-studio-developer-pack",
+  "displayName": "Sun Studio Developer Pack",
+  "description": "Sun Studio Developer's Extension Pack to ease the smart contract development, testing and deployment.",
   "version": "0.0.1",
   "keywords": [
     "hardhat",
@@ -12,7 +12,7 @@
     "smart contract",
     "smart contracts",
     "blockchain",
-    "tronstudio",
+    "sun studio",
     "tron network"
   ],
   "icon": "images/sun.png",
@@ -24,7 +24,7 @@
   "publisher": "grayfoxd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sun-protocol/tronstudio-developer-pack"
+    "url": "https://github.com/sun-protocol/sun-studio-developer-pack"
   },
   "engines": {
     "vscode": "^1.70.0"
